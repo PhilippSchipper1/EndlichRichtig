@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EndlichRichtig</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">send</string>
+    <string name="button_bmi">BMI</string>
+    <string name="weight">Gewicht</string>
+    <string name="height">Groesse</string>
+    <string name="result">Ergebnis</string>
+    <string name="underweight">Stark untergewichtig</string>
+
+
+</resources>
